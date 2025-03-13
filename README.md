@@ -1,7 +1,7 @@
 # calculadora-java 🧮
 A calculadora é um simples projeto em Java para iniciar os meus estudos. Ela realiza contas de subtração, adição, multiplicação, divisão, potência e raiz quadrada
 
-#### adição ➕
+### adição ➕
 <div align=center>
   
 ![Mar-12-2025 21-06-02](https://github.com/user-attachments/assets/65ffa5ed-80b1-429b-a739-288efb500614)
