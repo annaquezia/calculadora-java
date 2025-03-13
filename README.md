@@ -3,7 +3,9 @@ A calculadora é um simples projeto em Java para iniciar os meus estudos. Ela re
 
 #### adição ➕
 <div align=center>
+  
 ![Mar-12-2025 21-06-02](https://github.com/user-attachments/assets/65ffa5ed-80b1-429b-a739-288efb500614)
+
 </div>
 
 #### subtração ➖
