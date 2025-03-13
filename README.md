@@ -8,7 +8,7 @@ A calculadora é um simples projeto em Java para iniciar os meus estudos. Ela re
 
 #### subtração ➖
 <div align=center>
-![Mar-12-2025 21-06-30](https://github.com/user-attachments/assets/bca86085-52d0-4604-a273-92edb5e16c21)
+  ![Mar-12-2025 21-06-02](https://github.com/user-attachments/assets/43e5d1f8-0528-4a19-8240-880b53c84e41)
 </div>
 
 #### multiplicação ✖️
